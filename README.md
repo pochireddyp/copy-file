@@ -19,8 +19,8 @@ Step 6: End the program.
 
 ## PROGRAM:
 ```
-#Devolped By:Masina Sree Karsh
-#Ref no: 23005860
+#Devolped By:pochireddy.p
+#Ref no: 23006090
 with open("text.txt","r") as f1:
     with open("copy.txt","w") as f2:
         line=f1.read()
